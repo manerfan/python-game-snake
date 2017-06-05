@@ -10,7 +10,7 @@ The project is implemented in [Python3.6](https://www.python.org/downloads/).
 
 ## Require
 
-You should have `pygame` module  [installed](http://www.pygame.org/wiki/GettingStarted#Pygame Installation) .
+You should have `pygame` module [installed](http://www.pygame.org/wiki/GettingStarted#Pygame Installation) .
 
 
 
@@ -33,6 +33,8 @@ cd python-game-snake
 python3 dfs_demo.py
 ```
 
+![DFS](images/DFS.gif)
+
 
 
 #### BFS
@@ -41,6 +43,8 @@ python3 dfs_demo.py
 python3 bfs_demo.py
 ```
 
+![BFS](images/BFS.gif)
+
 
 
 #### A*
@@ -48,6 +52,8 @@ python3 bfs_demo.py
 ```shell
 python3 a_star_demo.py
 ```
+
+![A*](images/A_.gif)
 
 
 
