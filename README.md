@@ -10,7 +10,7 @@ The project is implemented in [Python3.6](https://www.python.org/downloads/).
 
 ## Require
 
-You should have `pygame` module [installed](http://www.pygame.org/wiki/GettingStarted#Pygame Installation) .
+You should have `pygame` module [installed](http://www.pygame.org/wiki/GettingStarted#Pygame) .
 
 
 
